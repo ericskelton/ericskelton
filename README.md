@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericskelton
-- 👀 I’m interested in: security, web development
+- 👀 I’m interested in: security, web development, Artificial Intelligence
 - 🌱 I’m currently learning: Quantum Computing
 - 💞️ I’m looking to collaborate: on anything cool that I come across
 - 📫 How to reach me eric.skelton00@gmail.com is the best way to reach me, and I will get back to you as soon as I can
